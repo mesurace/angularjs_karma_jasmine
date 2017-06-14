@@ -4,7 +4,7 @@
 
 # 1. Set Up(on mac)
 
-1. Create a folder.
+1. Create a folder. Let's say /desktop/AngularTest
 2. Open terminal and go to your folder.
 3. Make sure you have npm installed.
 
@@ -39,12 +39,12 @@
         
 # 2. Run 
 
-1. Create app and tests folders
+1. Create app and tests folders in AngularTest folder
     
               inside app create app.js
               inside tests create test.js
    
-   (find those folders in above code)
+   (copy and paste codes from above)
   
 2. Open karma.confg.js and add following lines in  Files as
 
