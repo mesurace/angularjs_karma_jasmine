@@ -38,10 +38,11 @@
         
 # 2. Run 
 
-1. Create app and tests folder
+1. Create app and tests folders
     
               inside app create app.js
               inside tests create test.js
+   
    (find those folders in above code)
   
 2. Open karma.confg.js and add following lines in  Files as
