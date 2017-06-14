@@ -9,7 +9,8 @@
 3. Make sure you have npm installed.
 
           Run : npm init
-     
+          
+     [Hit enter key 10 times.] :D
 4. Install karma
     
           Run : npm install karma --save -dev
