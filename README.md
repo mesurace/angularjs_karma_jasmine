@@ -32,7 +32,7 @@
       
 8. start karma 
 
-          Run : npm init
+          Run : karma init
      You will see questions and select the following answers
      
         -> jasmine -> no ->PhantomJS -> - -> - -> yes
