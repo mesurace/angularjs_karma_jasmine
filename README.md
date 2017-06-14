@@ -39,6 +39,7 @@
 # 2. Run 
 
 1. Create app and tests folder
+    
     inside app create app.js
     inside tests create test.js
   (find those folders in above code)
