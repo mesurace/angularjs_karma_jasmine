@@ -1,4 +1,4 @@
-# Unit testing of AngularJS controller using Karma and Jasmine
+# Testing angularjs with jasmine and karma
 
 # Steps:
 
