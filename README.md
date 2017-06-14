@@ -58,5 +58,5 @@
     
           run karma start karma.conf.js
     
-    You will see in last line Executed 2 of 2 SUCCESS.
+    If you see "Executed 2 of 2 SUCCESS". Then you are done :)
     
