@@ -1,8 +1,8 @@
-# angularjs_karma_jasmine
+# Unit testing of AngularJS controller using Karma and Jasmine
 
 # Steps:
 
-# 1. Set up(on mac)
+# 1. Set Up(on mac)
 
 1. Create a folder in a desired directory in your PC
 2. Open terminal and set your folder to current directory.
