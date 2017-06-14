@@ -4,8 +4,8 @@
 
 # 1. Set Up(on mac)
 
-1. Create a folder in a desired directory in your PC
-2. Open terminal and set your folder to current directory.
+1. Create a folder.
+2. Open terminal and go to your folder.
 3. Make sure you have npm installed.
 
           Run : npm init
