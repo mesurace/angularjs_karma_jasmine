@@ -40,20 +40,20 @@
 
 1. Create app and tests folder
     
-    inside app create app.js
-    inside tests create test.js
-  (find those folders in above code)
+              inside app create app.js
+              inside tests create test.js
+   (find those folders in above code)
   
 2. Open karma.confg.js and add following lines in  Files as
 
-     files: [
-    'node_modules/angular/angular.js',
-    'node_modules/angular-mocks/angular-mocks.js',
-    'node_modules/angular-resource/angular-resource.js',
-    'app/*.js',
-    'tests/*.js'
-    ]
-    
+               files: [
+              'node_modules/angular/angular.js',
+              'node_modules/angular-mocks/angular-mocks.js',
+              'node_modules/angular-resource/angular-resource.js',
+              'app/*.js',
+              'tests/*.js'
+              ]
+
     
 3. Finally,  
     
