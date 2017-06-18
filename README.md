@@ -6,7 +6,7 @@
 
 1. Create a folder. Let's say:- Desktop/AngularTest
 2. Open terminal and go to your folder.
-3. Make sure you have npm installed.
+3. Make sure you have npm installed.(If you don't, you can follow [these instructions](https://github.com/nodejs/node/wiki).)
 
           Run : npm init
           
