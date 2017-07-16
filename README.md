@@ -63,5 +63,5 @@
     
     If you see "Executed 2 of 2 SUCCESS". Then you are done :)
     
-    Importaint Links: https://docs.angularjs.org/guide/, https://github.com/angular/angular.js/wiki/Understanding-Scopes
+    Important  Links: https://docs.angularjs.org/guide/, https://github.com/angular/angular.js/wiki/Understanding-Scopes
     
